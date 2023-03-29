@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: true
-title: 
+title: FACTOR BIKER
 subtitle: 
 description: RUEDA BIEN RUEDA LIBRE RUEDA SEGURO
   priority: 1.0
