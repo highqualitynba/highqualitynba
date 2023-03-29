@@ -9,7 +9,7 @@ description:
 <p class="describe-text">RUEDA BIEN, RUEDA LIBRE, RUEDA SEGURO</p>
 <br>
 <Para mas informacion o dudas Urbinael088@gmail.com>
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+Envios a toda la republica o nos puedes visitar en  Av. Pantitlán 603, La Perla, 57820 Nezahualcóyotl, Méx.
 
 <br>
 <br>
