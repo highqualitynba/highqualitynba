@@ -3,7 +3,7 @@ layout: page
 full_logo: true
 title: FACTOR BIKER
 subtitle: 
-description: RUEDA BIEN RUEDA LIBRE RUEDA SEGURO
+description: ¡
   priority: 1.0
 ---
 <p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
