@@ -2,13 +2,14 @@
 layout: page
 full_logo: true
 title: FACTOR BIKER
-subtitle: ![image_6483441](https://user-images.githubusercontent.com/124215071/228742028-1d1122a0-e237-40f4-8592-805ff4c64b4e.JPG)
+subtitle: Venta de motos vive una mejor experiencia y calidad de servicios 
 
 description:
   priority: 1.0
 ---
 <p class="describe-text">RUEDA BIEN, RUEDA LIBRE, RUEDA SEGURO</p>
-![image_6483441](https://user-images.githubusercontent.com/124215071/228743110-b270b99a-9ad0-4065-81ab-1aefddb84133.JPG)
+![image_6483441 (2)](https://user-images.githubusercontent.com/124215071/228744922-20c20b66-3528-4599-aea6-5cbdb4c3b216.JPG)
+
 
 
 
