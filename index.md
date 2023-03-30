@@ -2,15 +2,19 @@
 layout: page
 full_logo: true
 title: FACTOR BIKER
-subtitle: RUEDA BIEN, RUEDA LIBRE, RUEDAS SEGURO 
+subtitle: ![image_6483441](https://user-images.githubusercontent.com/124215071/228742028-1d1122a0-e237-40f4-8592-805ff4c64b4e.JPG)
+
 description:
   priority: 1.0
 ---
 <p class="describe-text">RUEDA BIEN, RUEDA LIBRE, RUEDA SEGURO</p>
 <br>
 <Para mas informacion o dudas Urbinael088@gmail.com>
-Envios a toda la republica o nos puedes visitar en  Av. Pantitlán 603, La Perla, 57820 Nezahualcóyotl, Méx.
-![Posts _ Pudhina Fresh - Google Chrome 29_03_2023 1_28_15](https://user-images.githubusercontent.com/124215071/228738909-edb9910f-2867-49c1-927a-23d29b782f53.png)
+Encuentras grandes ofertas y promociones online en tus productos favoritos. Entra a Linio México y conoce nuestras formas de pago, envíos, entregas garantizadas y más.
+
+
+
+NOVEDADES!!
 
 ENCUENTRA TU MOTO IDEAL   no pierdas la oportunidad de disfrutar estos desscuentos que tenemos para ti!
 ![image](https://user-images.githubusercontent.com/124215071/228740770-9f6b95f4-b620-480f-80bb-d27234b04970.png)ITALIKA DS 150 1915km  italika 2021
