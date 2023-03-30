@@ -44,6 +44,7 @@ ITALIKA BLACKBIRD 250
  $49,999.00     Motor: Gasolina Cilindrada: 250 CC Velocidad Máxima(Km/Hr): 135 Km/h Torque máximo (NM): 19.4 N-m @ 8500 RPM  Capacidad de combustible: 14 L
 <br>
 <br>
-<br>
-<br>
+PUEDES ENCARGAR TU COMPRA EN LA PAGINA WEB O NOS PUEDES VISITAR EN Calz. Ignacio Zaragoza 2929, Santa Martha Acatitla, Iztapalapa, 09510 Ciudad de México, CDMX
+![Posts _ Pudhina Fresh - Google Chrome 29_03_2023 1_28_15](https://user-images.githubusercontent.com/124215071/228746775-26a21f8a-6283-4ed0-8f4e-9ff1506eafd5.png)
+
 <br>
