@@ -1,5 +1,5 @@
 # FACTOR BIKER
-# Envios gratis a toda la republica o puedes encontarnos en Dirección: Av Lerma, Valle de los Reyes S/N, 1A Sección, 56430 Los Reyes Acaquilpan, Méx.
+
 
 Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)
 
