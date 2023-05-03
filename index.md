@@ -7,7 +7,7 @@ subtitle: TIENDA DE SNEAKERS,ROPA,TENIS Y ACCESORIOS
 description:
   priority: 1.0
 ---
-<p class="describe-text">RUEDA BIEN, RUEDA LIBRE, RUEDA SEGURO</p>
+<p class="describe-text">ENVIOS GRATIS EN PEDIDOS EN SHOP              YA PUEDES PAGAR CON OXXO PAY</p>
 ![image_6483441 (2)](https://user-images.githubusercontent.com/124215071/228744922-20c20b66-3528-4599-aea6-5cbdb4c3b216.JPG)
 
 
