@@ -2,7 +2,7 @@
 layout: page
 full_logo: true
 title: TAF MEXICO
-subtitle: Venta de motos vive una mejor experiencia y calidad de servicios 
+subtitle: TIENDA DE SNEAKERS,ROPA,TENIS Y ACCESORIOS
 
 description:
   priority: 1.0
