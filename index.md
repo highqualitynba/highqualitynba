@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: true
-title: FACTOR BIKER
+title: TAF MEXICO
 subtitle: Venta de motos vive una mejor experiencia y calidad de servicios 
 
 description:
