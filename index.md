@@ -1,7 +1,8 @@
 ---
 layout: page
 full_logo: true
-title: TAF MEXICO
+title: TAF MEXICO ![image](https://user-images.githubusercontent.com/124215071/235816595-d7f77b59-1725-4a24-96d3-287e93631382.png)
+
 subtitle: TIENDA DE SNEAKERS,ROPA,TENIS Y ACCESORIOS
 
 description:
