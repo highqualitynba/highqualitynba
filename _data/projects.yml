@@ -1,4 +1,4 @@
-- name: Project One # Project name, also used as heading
+- name: NIKE BLAZER MID 77 # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
   img_src: /assets/img/connectpie-page.png # Optional image
   description_less: This part of the project description is visible at all times. # Description shown at all times, text only
