@@ -33,9 +33,10 @@ TENIS NIKE BLAZER MID 77
  
 
 
-ITALIKA Z 125
-![image](https://user-images.githubusercontent.com/124215071/228741305-e61bd5a9-9000-4af6-a24a-4bb4b96b2127.png)
-25,000          AÑO 2022                       150CC                                2829KM
+TENIS NIKE AIR FORCE 1 LE GS TRIPLE WITH
+![image](https://user-images.githubusercontent.com/124215071/236969381-1c87c73b-55b5-40f5-bd0c-23599698779b.png)
+1.799,00 MXN
+
 
 
 Vento Storm 250
