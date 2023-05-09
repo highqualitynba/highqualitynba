@@ -27,7 +27,8 @@ NOVEDADES!!
 ENCUENTRA TU PAR DE TENIS IDEAL EN PRECIOS ACCESIBLES 
 
 TENIS NIKE BLAZER MID 77
-![image](https://user-images.githubusercontent.com/124215071/236965027-5266089f-8cf6-493d-8f29-6747fe9a97aa.png)
+![image](https://user-images.githubusercontent.com/124215071/236965377-60620613-ed4d-45eb-b115-c44f81588f83.png)
+
 1.999,00 MXN      TAF MEXICO
  
 
