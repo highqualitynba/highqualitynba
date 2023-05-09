@@ -24,7 +24,7 @@ Encuentras grandes ofertas y promociones online en tus productos favoritos. Entr
 
 NOVEDADES!!
 
-ENCUENTRA TU MOTO IDEAL   no pierdas la oportunidad de disfrutar estos desscuentos que tenemos para ti!
+ENCUENTRA TU PAR DE TENIS IDEAL EN PRECIOS ACCESIBLES 
 
 ITALIKA DS 150
 ![image](https://user-images.githubusercontent.com/124215071/228740770-9f6b95f4-b620-480f-80bb-d27234b04970.png)
