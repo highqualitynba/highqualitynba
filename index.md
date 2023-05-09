@@ -34,7 +34,8 @@ TENIS NIKE BLAZER MID 77
 
 
 TENIS NIKE AIR FORCE 1 LE GS TRIPLE WITH
-![image](https://user-images.githubusercontent.com/124215071/236969381-1c87c73b-55b5-40f5-bd0c-23599698779b.png)
+![image](https://user-images.githubusercontent.com/124215071/236969630-b1174489-1e0c-43b4-940e-faa98ad098ea.png)
+
 1.799,00 MXN
 
 
