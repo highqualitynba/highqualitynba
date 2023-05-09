@@ -26,9 +26,10 @@ NOVEDADES!!
 
 ENCUENTRA TU PAR DE TENIS IDEAL EN PRECIOS ACCESIBLES 
 
-ITALIKA DS 150
-![image](https://user-images.githubusercontent.com/124215071/228740770-9f6b95f4-b620-480f-80bb-d27234b04970.png)
- 30,000 ITALIKA DS 150 1915km  italika 2021
+TENIS NIKE BLAZER MID 77
+![image](https://user-images.githubusercontent.com/124215071/236965027-5266089f-8cf6-493d-8f29-6747fe9a97aa.png)
+1.999,00 MXN      TAF MEXICO
+ 
 
 
 ITALIKA Z 125
