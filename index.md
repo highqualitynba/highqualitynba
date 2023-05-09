@@ -40,9 +40,10 @@ TENIS NIKE AIR FORCE 1 LE GS TRIPLE WITH
 
 
 
-Vento Storm 250
-![image](https://user-images.githubusercontent.com/124215071/228745752-e2c9c2a1-70bb-4abf-8342-3df656c86a2c.png)
-$41,999.00      Motocicleta Vento Storm 250 Cc Rojo 2022
+TENIS JORDAN 1 MID CHICAGO
+![image](https://user-images.githubusercontent.com/124215071/236970278-1815f7cf-51f3-487f-89b6-c8f72aea12a8.png)
+
+10,769.00
 
 
 ITALIKA BLACKBIRD 250
