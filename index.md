@@ -46,9 +46,9 @@ TENIS JORDAN 1 MID CHICAGO
 10,769.00 MXN
 
 
-ITALIKA BLACKBIRD 250
-![image](https://user-images.githubusercontent.com/124215071/228745936-6e072218-4635-481f-ab16-e65c52b41648.png)
- $49,999.00     Motor: Gasolina Cilindrada: 250 CC Velocidad Máxima(Km/Hr): 135 Km/h Torque máximo (NM): 19.4 N-m @ 8500 RPM  Capacidad de combustible: 14 L
+TENIS NIKE JA MORANT 1 DAY ONE
+![image](https://github.com/Sneakers-taf/Sneakers-taf.github.io/assets/124215071/722be520-c00b-4d3b-a0c3-49bdf136e919)
+2,249.00 MXN
 <br>
 <br>
 PUEDES ENCARGAR TU COMPRA EN LA PAGINA WEB O NOS PUEDES VISITAR EN Calz. Ignacio Zaragoza 2929, Santa Martha Acatitla, Iztapalapa, 09510 Ciudad de México, CDMX
