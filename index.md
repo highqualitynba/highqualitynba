@@ -52,6 +52,7 @@ TENIS NIKE JA MORANT 1 DAY ONE
 <br>
 <br>
 PUEDES ENCARGAR TU COMPRA EN LA PAGINA WEB O NOS PUEDES VISITAR EN Calz. Ignacio Zaragoza 2929, Santa Martha Acatitla, Iztapalapa, 09510 Ciudad de México, CDMX
+(Centro Comercial Ciudad Jardín Avenida Bordo de Xochiaca, Av. Ciudad Jdn. 3, 57205 Nezahualcóyotl, Méx.)
 
-<Centro Comercial Ciudad Jardín Avenida Bordo de Xochiaca, Av. Ciudad Jdn. 3, 57205 Nezahualcóyotl, Méx.>
+
 <br>
