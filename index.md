@@ -53,6 +53,7 @@ TENIS NIKE JA MORANT 1 DAY ONE
 NUESTRA
 [UBICACION](https://www.google.com.mx/maps/place/TAF/@19.4251504,-99.0265459,17z/data=!3m1!5s0x85d1fccc3199594b:0x64fa8b19930b7dd5!4m15!1m8!3m7!1s0x85d1fcbaa2a8adbd:0x86812695195ad4eb!2sTAF!8m2!3d19.4251454!4d-99.023971!10e1!16s%2Fg%2F11bwyyg58f!3m5!1s0x85d1fcbaa2a8adbd:0x86812695195ad4eb!8m2!3d19.4251454!4d-99.023971!16s%2Fg%2F11bwyyg58f)
 
-
+![image](vince-carter.jpg)
+![image](/assets/img/vince-carter.jpg)
 
 <br>
