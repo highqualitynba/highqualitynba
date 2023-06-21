@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: true
-title: HIGHQUALITYNBA
+title: HighQualityNBA
 
 subtitle: CAMISETAS DE NBA CON LA MEJOR CALIDAD Y EL MEJOR PRECIO
 
