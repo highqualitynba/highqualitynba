@@ -9,7 +9,7 @@ description:
   priority: 1.0
 ---
 <p class="describe-text">PAGO POR PAYPAL</p>
-![image](https://user-images.githubusercontent.com/124215071/235816027-d73249b9-9769-419a-8b4e-6333b0f9fb3a.png)
+
 
 
 
